@@ -1,0 +1,141 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: white;
+  }
+  
+  .mainbox {
+    width: 1000px;
+    height: 760px; /* will be removed once page is complete */
+    background-color: white;
+    margin: 20px;
+    text-align: left;
+  }
+  .sectionbox1 {
+    width: 1000px;
+    height:40px;
+    background-color: grey;
+    text-align: left;
+    color: black;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  .indent {
+    margin-left:45px;
+  }
+  .white {
+    color: white;
+  }
+
+  .whitebox {
+    width: 105px;
+    height: 120px;
+    background-color: white;
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+  .drkbluebox {
+    width: 105px;
+    height: 120px;
+    background-color: darkblue;
+    text-align: left;
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+    color: white;
+    padding-top: 95px;
+    padding-left: 5px;
+  }
+  a:link {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a:visited{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a:hover{
+    text-decoration: none;
+    background-color: white;
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  .collagebox {
+    width: 105px;
+    height: 120px;
+    background-color: white;
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+
+.latestbox {
+    background-color: lightgray;
+    color: grey;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    width: 250px;
+    height:180px;
+    padding-right: 25px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.gallerybutton {
+    background-color: grey;
+    border-style: 1px groove darkgrey;
+    font-size: 13.5px;
+    text-align: center;
+    color:white;
+    padding-left:3px;
+    padding-top: 4px;
+    height:25px;
+    width: 130px;
+    float:left;
+    margin-left: 10px;
+}
+.photobox {
+    background-color: lightgray;
+    float: left;
+    width: 250px;
+    height:180px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.sectionbox2 {
+    width: 1000px;
+    height:40px;
+    background-color: grey;
+    text-align: left;
+    color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    padding-left: 640px;
+    padding-top: 9px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  footer a:link {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  footer a:hover{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
